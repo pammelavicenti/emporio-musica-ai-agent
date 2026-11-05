@@ -1,0 +1,93 @@
+[
+  {
+    "id": "company_and_contact",
+    "title": "Empresa, endereço e contatos",
+    "page": 2,
+    "keywords": ["endereço", "localização", "telefone", "whatsapp", "e-mail", "contato", "cnpj", "razão social", "fundação", "missão", "loja"],
+    "content": "Razão social: Empório da Música Instrumentos Musicais Ltda.; nome fantasia: Empório da Música; CNPJ: 12.345.678/0001-90; fundação: 2008. A missão declarada é democratizar o acesso a instrumentos de qualidade no Centro-Oeste. Endereço: Rua 14 de Maio, 3200, Centro, Campo Grande - MS, CEP 79202-333. A página 2 informa Telefone/WhatsApp (67) 3341-4444 e contato@empóriodamusica.com.br. A capa usa contato@emporiodamusica.com.br, sem acento no domínio. A página 6 informa outro WhatsApp, (67) 3321-4500. Como os contatos divergem, o assistente deve apresentar a incerteza e recomendar confirmação com a equipe, sem escolher um deles como definitivo."
+  },
+  {
+    "id": "opening_hours",
+    "title": "Horário de funcionamento",
+    "page": 2,
+    "keywords": ["horário", "funcionamento", "aberto", "fecha", "sábado", "domingo", "feriado", "expediente"],
+    "content": "Atendimento presencial e por WhatsApp: segunda a sexta, das 09:00 às 18:00; sábado, das 09:00 às 13:00; domingo e feriados, fechado. Datas especiais podem ter horário estendido, divulgado previamente nas redes sociais e no WhatsApp."
+  },
+  {
+    "id": "payments",
+    "title": "Formas de pagamento e parcelamento",
+    "page": 3,
+    "keywords": ["pagamento", "pix", "débito", "crédito", "cartão", "boleto", "parcela", "parcelamento", "juros", "desconto"],
+    "content": "PIX à vista tem 5% de desconto sobre o preço de tabela; débito é à vista e aceita todas as bandeiras; crédito em até 12x sem juros; boleto é à vista e pode compensar em até 3 dias úteis. A tabela geral diz parcela mínima de R$ 100,00 no crédito. As regras detalhadas, porém, dizem: até 3x sem juros, sem mínimo exceto abaixo de R$ 50,00; de 4x a 6x, mínimo de R$ 80,00; de 7x a 12x, mínimo de R$ 100,00. Essa divergência exige confirmação da gerência quando o valor ficaria abaixo de R$ 100,00. Combinação PIX + cartão é permitida para compras acima de R$ 2.000,00."
+  },
+  {
+    "id": "online_withdrawal",
+    "title": "Direito de arrependimento em compra online",
+    "page": 4,
+    "keywords": ["arrependimento", "devolver", "devolução", "reembolso", "compra online", "recebimento", "sete dias", "7 dias"],
+    "content": "Em compra online, a devolução pode ser solicitada em até 7 dias corridos após o recebimento, sem justificativa. O produto deve estar na embalagem original, sem uso, com acessórios e manuais. O reembolso ocorre na forma de pagamento original em até 10 dias úteis e o frete de devolução é pago pela loja. A base de pedidos traz data do pedido, não a data real de recebimento; portanto, o assistente não pode concluir elegibilidade sem perguntar canal de compra, data de recebimento e condição do produto."
+  },
+  {
+    "id": "exchanges",
+    "title": "Trocas, defeitos e itens não elegíveis",
+    "page": 4,
+    "keywords": ["troca", "defeito", "preferência", "cor", "modelo", "personalização", "liquidação", "boquilha"],
+    "content": "Defeito de fabricação: troca em até 30 dias corridos após a compra; depois disso, acionar a garantia do fabricante, com possível intermediação da loja. Mau uso, queda, umidade excessiva e modificações não autorizadas não são cobertos. Troca por preferência é permitida em até 7 dias, conforme estoque, com produto perfeito e embalagem original. Não são elegíveis: instrumentos personalizados ou com ajustes sob encomenda, liquidação marcada como venda final e boquilhas de sopro por higiene."
+  },
+  {
+    "id": "local_delivery",
+    "title": "Frete na região metropolitana de Campo Grande",
+    "page": 4,
+    "keywords": ["frete", "entrega", "campo grande", "motoboy", "taxa", "grátis", "prazo"],
+    "content": "Na região metropolitana de Campo Grande, o frete é grátis acima de R$ 500,00. Abaixo disso, a taxa é R$ 35,00. O prazo informado é de 1 a 3 dias úteis, por motoboy próprio, com contato telefônico antes da entrega."
+  },
+  {
+    "id": "other_cities_delivery",
+    "title": "Frete para outras cidades e rastreamento",
+    "page": 5,
+    "keywords": ["frete", "entrega", "correios", "pac", "sedex", "jadlog", "rastreio", "rastreamento", "seguro", "prazo", "outra cidade"],
+    "content": "Fora da região metropolitana: PAC, 5 a 12 dias úteis; SEDEX, 2 a 5; Jadlog, 3 a 8. Todos têm rastreamento e seguro. O frete depende de CEP, peso e dimensões; baterias acústicas, pianos digitais e contrabaixos podem exigir cotação especial. Em avaria, recusar o recebimento e contatar a loja imediatamente. O código é enviado por e-mail e WhatsApp após o despacho. O formato descrito é BR + 9 caracteres alfanuméricos + BR, por exemplo BR4K7M2X9P1BR. O rastreamento é feito no site dos Correios ou da Jadlog. Não inventar valor ou prazo específico sem uma cotação/pedido."
+  },
+  {
+    "id": "promotions",
+    "title": "Promoções e descontos",
+    "page": 6,
+    "keywords": ["promoção", "desconto", "cumulativo", "pix", "black friday", "aniversário", "volta às aulas", "semana do músico", "oferta", "liquidação", "estoque"],
+    "content": "Campanhas descritas no manual: Aniversário da Loja em agosto, com 10% a 25% em itens selecionados; Black Friday em novembro, com 15% a 30% no catálogo; Volta às Aulas em fevereiro, com descontos para estudantes; Queima de Estoque pontual; e Semana do Músico na semana de 22 de novembro. Promoções não são cumulativas. O desconto PIX de 5% não se aplica a preço já promocional. Promoções dependem de estoque e não geram reserva de preço para item esgotado. Ao comunicar promoção, mostrar preço original, percentual e preço promocional. O status e o percentual atuais devem vir do CSV de promoções, não apenas do calendário descrito no manual."
+  },
+  {
+    "id": "service_scope",
+    "title": "Escopo e tom do atendimento",
+    "page": 6,
+    "keywords": ["acessório", "corda", "cabo", "palheta", "pedal", "amplificador", "case", "escopo", "instrumento", "atendimento", "tempo de resposta", "cinco minutos", "5 minutos"],
+    "content": "A loja trabalha exclusivamente com instrumentos musicais e não vende cordas, palhetas, cabos, cases, pedais ou amplificadores. O tom deve ser informal e profissional. O manual prevê resposta em até 5 minutos durante o horário de funcionamento e informação do horário de retorno fora do expediente. O fluxo padrão é saudação, entendimento da necessidade, consulta ao sistema, resposta clara com preços e condições e fechamento cordial. Não sugerir loja parceira específica se a fonte não fornecer nomes. Preço, estoque e prazo devem ser consultados antes de responder."
+  },
+  {
+    "id": "special_service_cases",
+    "title": "Situações especiais e reclamações",
+    "page": 7,
+    "keywords": ["esgotado", "descontinuado", "promoção expirada", "reclamação", "indisponível", "prazo de retorno"],
+    "content": "Item sem estoque: informar indisponibilidade temporária e oferecer alternativas disponíveis. Item descontinuado: dizer que saiu do catálogo e sugerir equivalentes. Promoção expirada: informar com transparência e mostrar o preço atual. Reclamações devem ser ouvidas e encaminhadas, com retorno previsto em 24 horas úteis. O protótipo não registra reclamações; deve explicar essa limitação e orientar contato com a equipe."
+  },
+  {
+    "id": "warranty",
+    "title": "Garantia",
+    "page": 7,
+    "keywords": ["garantia", "defeito", "fabricante", "mau uso", "reparo", "90 dias"],
+    "content": "A garantia legal informada é de 90 dias contra defeitos de fabricação, contados do recebimento. Fabricantes podem oferecer de 6 meses a 2 anos, conforme certificado de cada produto. Não cobre desgaste natural, mau uso, quedas, clima extremo, reparos não autorizados ou danos apenas estéticos. O prazo de troca direta por defeito (30 dias após a compra) é um procedimento distinto da garantia legal (90 dias após recebimento)."
+  },
+  {
+    "id": "privacy",
+    "title": "Privacidade e proteção de dados",
+    "page": 8,
+    "keywords": ["privacidade", "lgpd", "dados", "exclusão", "marketing", "consentimento", "cliente"],
+    "content": "Dados pessoais são usados para pedidos, entregas, comunicação de status e obrigações legais; promoções exigem consentimento explícito. Não são compartilhados com terceiros para marketing. O cliente pode pedir exclusão por WhatsApp ou e-mail. Para status de pedido, este protótipo exige ID do pedido e e-mail exato, mas isso não substitui autenticação forte em produção."
+  },
+  {
+    "id": "policy_governance",
+    "title": "Atualização e aplicação das políticas",
+    "page": 8,
+    "keywords": ["dúvida", "incerteza", "gerência", "atualização", "versão", "política", "manual"],
+    "content": "O manual é a referência para a equipe e para o assistente virtual, está sujeito a atualizações periódicas e tem versão 2.1, de junho de 2025. Em caso de dúvida sobre a aplicação de uma política, o atendente deve consultar a gerência antes de informar o cliente. Transparência e precisão têm prioridade."
+  }
+]

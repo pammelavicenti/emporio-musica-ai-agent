@@ -1,0 +1,6 @@
+# Reviewed transcripts preserve real model output, including end-of-line spaces.
+examples/reviewed/*.md -text whitespace=-blank-at-eol
+examples/reviewed/*.tools.json -text
+examples/rejected/*.md -text whitespace=-blank-at-eol
+# Prevent checkout line-ending conversion from corrupting PDF byte offsets.
+*.pdf binary

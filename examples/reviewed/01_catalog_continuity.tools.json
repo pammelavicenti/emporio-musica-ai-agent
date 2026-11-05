@@ -1,0 +1,265 @@
+[
+  {
+    "call": {
+      "args": {
+        "query": "",
+        "only_available": true,
+        "limit": 8,
+        "max_price_brl": 1000,
+        "category": "Violões"
+      },
+      "name": "search_products"
+    }
+  },
+  {
+    "result": {
+      "name": "search_products",
+      "response": {
+        "status": "ok",
+        "count": 12,
+        "products": [
+          {
+            "product_id": 83,
+            "name": "Tagima Memphis AC-39 Nylon Natural",
+            "category": "Violões",
+            "description": "Violão clássico com cordas de nylon, perfeito para quem está começando. Corpo leve e confortável para longas sessões de estudo.",
+            "specifications": {
+              "top": "Linden",
+              "back_sides": "Linden",
+              "neck": "Nato",
+              "strings": "nylon",
+              "scale": "650mm",
+              "electronics": "no",
+              "color": "Natural"
+            },
+            "specifications_status": "ok",
+            "list_price_brl": "429.90",
+            "stock_quantity": 15,
+            "catalog_status": "active",
+            "available_for_sale": true,
+            "availability_reason": "available",
+            "active_promotion": null,
+            "current_price_brl": "429.90"
+          },
+          {
+            "product_id": 85,
+            "name": "Rozini RC-104 Nylon Estudante",
+            "category": "Violões",
+            "description": "Violão clássico de estudo da Rozini, feito com madeiras nacionais. Acabamento caprichado e preço acessível para iniciantes.",
+            "specifications": {
+              "top": "Spruce",
+              "back_sides": "Sapele",
+              "neck": "Nato",
+              "strings": "nylon",
+              "scale": "650mm",
+              "electronics": "no",
+              "color": "Natural"
+            },
+            "specifications_status": "ok",
+            "list_price_brl": "459.90",
+            "stock_quantity": 10,
+            "catalog_status": "active",
+            "available_for_sale": true,
+            "availability_reason": "available",
+            "active_promotion": null,
+            "current_price_brl": "459.90"
+          },
+          {
+            "product_id": 89,
+            "name": "Shelby SN-100 Folk Aço Preto",
+            "category": "Violões",
+            "description": "Violão folk aço com visual moderno em preto. Indicado para quem busca um instrumento versátil com boa relação custo-benefício.",
+            "specifications": {
+              "top": "Linden",
+              "back_sides": "Linden",
+              "neck": "Nato",
+              "strings": "steel",
+              "scale": "648mm",
+              "electronics": "no",
+              "color": "Preto"
+            },
+            "specifications_status": "ok",
+            "list_price_brl": "549.00",
+            "stock_quantity": 5,
+            "catalog_status": "active",
+            "available_for_sale": true,
+            "availability_reason": "available",
+            "active_promotion": null,
+            "current_price_brl": "549.00"
+          },
+          {
+            "product_id": 88,
+            "name": "Giannini GF-1R Aço Folk Sunburst",
+            "category": "Violões",
+            "description": "Violão folk com tampo em Spruce e acabamento Sunburst clássico. Som equilibrado e visual elegante para palco e estúdio.",
+            "specifications": {
+              "top": "Spruce",
+              "back_sides": "Sapele",
+              "neck": "Nato",
+              "strings": "steel",
+              "scale": "648mm",
+              "electronics": "no",
+              "color": "Sunburst"
+            },
+            "specifications_status": "ok",
+            "list_price_brl": "579.90",
+            "stock_quantity": 7,
+            "catalog_status": "active",
+            "available_for_sale": true,
+            "availability_reason": "available",
+            "active_promotion": null,
+            "current_price_brl": "579.90"
+          },
+          {
+            "product_id": 81,
+            "name": "Yamaha C40 Nylon Natural",
+            "category": "Violões",
+            "description": "Violão clássico com tampo em Spruce e fundo/laterais em Meranti. Ideal para estudantes e iniciantes, com excelente projeção sonora.",
+            "specifications": {
+              "top": "Spruce",
+              "back_sides": "Meranti",
+              "neck": "Nato",
+              "strings": "nylon",
+              "scale": "650mm",
+              "electronics": "no",
+              "color": "Natural"
+            },
+            "specifications_status": "ok",
+            "list_price_brl": "599.90",
+            "stock_quantity": 12,
+            "catalog_status": "active",
+            "available_for_sale": true,
+            "availability_reason": "available",
+            "active_promotion": null,
+            "current_price_brl": "599.90"
+          },
+          {
+            "product_id": 84,
+            "name": "Giannini GN-15 Nylon Cedr Natural",
+            "category": "Violões",
+            "description": "Violão clássico Giannini com tampo em cedro. Sonoridade quente e encorpada, excelente custo-benefício para estudantes avançados.",
+            "specifications": {
+              "top": "Cedro",
+              "back_sides": "Sapele",
+              "neck": "Cedro",
+              "strings": "nylon",
+              "scale": "650mm",
+              "electronics": "no",
+              "color": "Natural"
+            },
+            "specifications_status": "ok",
+            "list_price_brl": "689.00",
+            "stock_quantity": 6,
+            "catalog_status": "active",
+            "available_for_sale": true,
+            "availability_reason": "available",
+            "active_promotion": null,
+            "current_price_brl": "689.00"
+          },
+          {
+            "product_id": 87,
+            "name": "Yamaha F310 Aço Natural",
+            "category": "Violões",
+            "description": "Violão folk aço Yamaha com corpo robusto e timbre encorpado. Um dos modelos mais vendidos do mundo para iniciantes e intermediários.",
+            "specifications": {
+              "top": "Spruce",
+              "back_sides": "Meranti",
+              "neck": "Nato",
+              "strings": "steel",
+              "scale": "634mm",
+              "electronics": "no",
+              "color": "Natural"
+            },
+            "specifications_status": "ok",
+            "list_price_brl": "699.90",
+            "stock_quantity": 14,
+            "catalog_status": "active",
+            "available_for_sale": true,
+            "availability_reason": "available",
+            "active_promotion": null,
+            "current_price_brl": "699.90"
+          },
+          {
+            "product_id": 86,
+            "name": "Tagima Dallas Tuner Aço Natural",
+            "category": "Violões",
+            "description": "Violão folk com cordas de aço e afinador integrado. Corpo confortável e som brilhante, ideal para acompanhamento vocal.",
+            "specifications": {
+              "top": "Spruce",
+              "back_sides": "Sapele",
+              "neck": "Nato",
+              "strings": "steel",
+              "scale": "648mm",
+              "electronics": "no",
+              "color": "Natural"
+            },
+            "specifications_status": "ok",
+            "list_price_brl": "749.00",
+            "stock_quantity": 9,
+            "catalog_status": "active",
+            "available_for_sale": true,
+            "availability_reason": "available",
+            "active_promotion": null,
+            "current_price_brl": "749.00"
+          }
+        ],
+        "returned_count": 8,
+        "offset": 0,
+        "next_offset": 8,
+        "truncated": true
+      }
+    }
+  },
+  {
+    "call": {
+      "args": {
+        "specification_value": "yes",
+        "specification_key": "electronics",
+        "only_available": true,
+        "category": "Violões",
+        "max_price_brl": 1000,
+        "query": "",
+        "limit": 8
+      },
+      "name": "search_products"
+    }
+  },
+  {
+    "result": {
+      "name": "search_products",
+      "response": {
+        "status": "ok",
+        "count": 1,
+        "products": [
+          {
+            "product_id": 107,
+            "name": "Shelby SGD-195E Elétrico Aço Sunburst",
+            "category": "Violões",
+            "description": "Violão eletroacústico dreadnought com captação e afinador integrado. Boa opção de custo-benefício para quem precisa de amplificação.",
+            "specifications": {
+              "top": "Spruce",
+              "back_sides": "Sapele",
+              "neck": "Nato",
+              "strings": "steel",
+              "scale": "650mm",
+              "electronics": "yes",
+              "color": "Sunburst"
+            },
+            "specifications_status": "ok",
+            "list_price_brl": "799.00",
+            "stock_quantity": 6,
+            "catalog_status": "active",
+            "available_for_sale": true,
+            "availability_reason": "available",
+            "active_promotion": null,
+            "current_price_brl": "799.00"
+          }
+        ],
+        "returned_count": 1,
+        "offset": 0,
+        "next_offset": null,
+        "truncated": false
+      }
+    }
+  }
+]

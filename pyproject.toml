@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=75"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "emporio-music-assistant"
+version = "0.1.0"
+description = "A tool-using customer support assistant for Emporio da Musica"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+  "google-genai>=2.34,<3",
+  "python-dotenv>=1.0,<2",
+]
+
+[project.scripts]
+emporio-assistant = "emporio_agent.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+

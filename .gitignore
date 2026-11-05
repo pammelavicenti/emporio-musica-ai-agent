@@ -1,0 +1,32 @@
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+env/
+ENV/
+.aws/
+*.pem
+*.key
+*.p12
+*.pfx
+*credentials*.json
+service-account*.json
+secrets.*
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+dist/
+build/
+*.egg-info/
+tmp/
+output/*
+!output/pdf/
+output/pdf/*
+!output/pdf/Pammela Vicenti Ribeiro - AI Engineer - Full-Stack para Aplicações com IA Generativa.pdf
+# Raw API output stays local until it is reviewed. Approved copies live in
+# examples/reviewed/ and are intentionally versioned.
+examples/generated/
+
